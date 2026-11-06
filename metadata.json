@@ -1,0 +1,6 @@
+{
+  "name": "MANI COMPANY — Marine Engineering & Real Estate Asset Management",
+  "description": "Official bilingual corporate website of MANI COMPANY, uniting Marine & Industrial Services (Hellenic Group Company) and Real Estate & Asset Management (Mani Palace).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
